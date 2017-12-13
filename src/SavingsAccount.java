@@ -10,7 +10,7 @@
 	
 	
 	
-	//default constructor ctrl+space -> select default constructor
+	//default constructor ctrl+space
 	public SavingsAccount() {
 		// TODO Auto-generated constructor stub
 	}
